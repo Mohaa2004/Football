@@ -1,0 +1,32 @@
+[
+  { "equipoLocal": "FC Barcelona", "equipoVisitante": "Real Madrid", "golesLocal": 2, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-01-05" },
+  { "equipoLocal": "Atlético Madrid", "equipoVisitante": "Valencia", "golesLocal": 3, "golesVisitante": 0, "competicion": "LaLiga", "fechaPartido": "2024-01-12" },
+  { "equipoLocal": "Sevilla", "equipoVisitante": "Betis", "golesLocal": 1, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-01-19" },
+  { "equipoLocal": "Villarreal", "equipoVisitante": "Real Sociedad", "golesLocal": 0, "golesVisitante": 2, "competicion": "LaLiga", "fechaPartido": "2024-01-26" },
+  { "equipoLocal": "Athletic Club", "equipoVisitante": "Osasuna", "golesLocal": 2, "golesVisitante": 2, "competicion": "LaLiga", "fechaPartido": "2024-02-02" },
+
+  { "equipoLocal": "Real Madrid", "equipoVisitante": "Sevilla", "golesLocal": 4, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-02-09" },
+  { "equipoLocal": "Valencia", "equipoVisitante": "FC Barcelona", "golesLocal": 1, "golesVisitante": 3, "competicion": "LaLiga", "fechaPartido": "2024-02-16" },
+  { "equipoLocal": "Betis", "equipoVisitante": "Villarreal", "golesLocal": 2, "golesVisitante": 0, "competicion": "LaLiga", "fechaPartido": "2024-02-23" },
+  { "equipoLocal": "Osasuna", "equipoVisitante": "Atlético Madrid", "golesLocal": 0, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-03-01" },
+  { "equipoLocal": "Real Sociedad", "equipoVisitante": "Athletic Club", "golesLocal": 1, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-03-08" },
+
+  { "equipoLocal": "FC Barcelona", "equipoVisitante": "Napoli", "golesLocal": 2, "golesVisitante": 2, "competicion": "Champions League", "fechaPartido": "2024-03-12" },
+  { "equipoLocal": "Real Madrid", "equipoVisitante": "PSG", "golesLocal": 3, "golesVisitante": 1, "competicion": "Champions League", "fechaPartido": "2024-03-13" },
+  { "equipoLocal": "Atlético Madrid", "equipoVisitante": "Inter", "golesLocal": 1, "golesVisitante": 0, "competicion": "Champions League", "fechaPartido": "2024-03-14" },
+
+  { "equipoLocal": "FC Barcelona", "equipoVisitante": "Valencia", "golesLocal": 4, "golesVisitante": 0, "competicion": "Copa del Rey", "fechaPartido": "2024-03-20" },
+  { "equipoLocal": "Real Madrid", "equipoVisitante": "Atlético Madrid", "golesLocal": 2, "golesVisitante": 2, "competicion": "Copa del Rey", "fechaPartido": "2024-03-21" },
+
+  { "equipoLocal": "Betis", "equipoVisitante": "Sevilla", "golesLocal": 1, "golesVisitante": 0, "competicion": "LaLiga", "fechaPartido": "2024-03-29" },
+  { "equipoLocal": "Villarreal", "equipoVisitante": "Valencia", "golesLocal": 3, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-04-05" },
+  { "equipoLocal": "Athletic Club", "equipoVisitante": "FC Barcelona", "golesLocal": 0, "golesVisitante": 2, "competicion": "LaLiga", "fechaPartido": "2024-04-12" },
+  { "equipoLocal": "Osasuna", "equipoVisitante": "Real Madrid", "golesLocal": 1, "golesVisitante": 3, "competicion": "LaLiga", "fechaPartido": "2024-04-19" },
+  { "equipoLocal": "Real Sociedad", "equipoVisitante": "Betis", "golesLocal": 2, "golesVisitante": 0, "competicion": "LaLiga", "fechaPartido": "2024-04-26" },
+
+  { "equipoLocal": "FC Barcelona", "equipoVisitante": "Girona", "golesLocal": 1, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-05-03" },
+  { "equipoLocal": "Atlético Madrid", "equipoVisitante": "Sevilla", "golesLocal": 2, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-05-10" },
+  { "equipoLocal": "Valencia", "equipoVisitante": "Real Sociedad", "golesLocal": 0, "golesVisitante": 0, "competicion": "LaLiga", "fechaPartido": "2024-05-17" },
+  { "equipoLocal": "Real Madrid", "equipoVisitante": "Villarreal", "golesLocal": 3, "golesVisitante": 2, "competicion": "LaLiga", "fechaPartido": "2024-05-24" },
+  { "equipoLocal": "Betis", "equipoVisitante": "Osasuna", "golesLocal": 2, "golesVisitante": 1, "competicion": "LaLiga", "fechaPartido": "2024-05-31" }
+]
